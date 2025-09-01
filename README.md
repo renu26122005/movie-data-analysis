@@ -10,5 +10,29 @@ Budget vs revenue trends
 
 Movie rating distribution
 
-🛠 Tools
-Python • Pandas • NumPy • Matplotlib • Seaborn
+📂 Dataset
+The dataset used is IMDB-Movie-Data.csv, which contains information such as:
+
+Movie title
+
+Genre
+
+Director & actors
+
+IMDb rating
+
+Revenue (Millions)
+
+Metascore
+
+🛠️ Technologies Used
+Python
+
+Pandas (data manipulation)
+
+NumPy (numerical computing)
+
+Matplotlib & Seaborn (data visualization)
+
+Jupyter Notebook
+
