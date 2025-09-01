@@ -10,7 +10,7 @@ Budget vs revenue trends
 
 Movie rating distribution
 
-📂 Dataset
+📂 Dataset:
 The dataset used is IMDB-Movie-Data.csv, which contains information such as:
 
 Movie title
