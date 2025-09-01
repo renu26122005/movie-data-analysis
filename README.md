@@ -1,7 +1,7 @@
-🎬 Movie Data Analysis
+🎬 Movie Data Analysis:
 A Python project exploring the IMDB Movie Dataset to uncover insights into genres, ratings, revenues, and the impact of directors and actors.
 
-📊 Highlights
+📊 Highlights:
 Top genres and ratings
 
 Successful directors & actors
